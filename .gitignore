@@ -1,0 +1,2 @@
+archivo donde listamos los archivos o carpetas a ignorar por git como el .inv o si trabajamos con node
+p. ej. el node_modules 
